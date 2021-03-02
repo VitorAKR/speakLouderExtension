@@ -9,3 +9,8 @@ The idea is very simple, after adding the extension, it reproduces in audio the 
 ## PT-BR:
 Este repositório contém minha primeira extensão do Chrome. 
 A ideia é muito simples, após adicionar a extensão, ela reproduz em áudio a seleção de textos nas páginas através de um contextMenu. A API de áudio usada não tem suporte aos navegadores IE e Opera.
+
+
+## Demo
+[Video]
+(https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6761313597374177280)
